@@ -25,6 +25,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Comodo Waf Kurulumu Linux](https://obir.ninja/linux/03/comodo-waf-kurulumu-linux/)
+- [TCP Bazlı Layer 7 DOS Protection](https://obir.ninja/guvenlik/03/tcp-bazli-layer-7-dos-protection/)
+- [CSF ile port yönlendirme](https://obir.ninja/linux/03/csf-ile-port-yonlendirme/)
+- [DDOS Saldırılarını Algılama ve Engelleme #2](https://obir.ninja/guvenlik/03/ddos-saldirilarini-algilama-ve-engelleme-2/)
+- [.htaccess Güvenlik Ayarları](https://obir.ninja/guvenlik/02/htaccess-guvenlik-ayarlari/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://obir.ninja)
