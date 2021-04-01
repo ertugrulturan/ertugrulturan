@@ -57,7 +57,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ertugrulturan&show_icons=true&hide_border=true" />
+  <img align="left" alt="ertugrulturan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ertugrulturan&show_icons=true&hide_border=true" />
 
 </details>
 
