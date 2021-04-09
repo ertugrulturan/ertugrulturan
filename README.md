@@ -30,11 +30,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CleanerX – Windows Optimizer](https://obir.ninja/arge/04/cleanerx-windows-optimizer/)
 - [Plesk Layer7 Firewall -vDDoS](https://obir.ninja/guvenlik/04/plesk-layer7-firewall-vddos/)
 - [Linux İnternet Hızlandırma (WiFi)](https://obir.ninja/linux/03/linux-internet-hizlandirma-wifi/)
 - [Comodo Waf Kurulumu Linux](https://obir.ninja/linux/03/comodo-waf-kurulumu-linux/)
 - [TCP Bazlı Layer 7 DOS Protection](https://obir.ninja/guvenlik/03/tcp-bazli-layer-7-dos-protection/)
-- [CSF ile port yönlendirme](https://obir.ninja/linux/03/csf-ile-port-yonlendirme/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://obir.ninja)
