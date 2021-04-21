@@ -16,11 +16,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Windows 10 Update Kapatma (%100) 2021](https://www.youtube.com/watch?v=H1xxW9-qLgM)
 - [PHP Clocker Yazılımı | Obir.Ninja](https://www.youtube.com/watch?v=lUAcriH36-c)
 - [Kernel DOS Self-Protection - Anti-DDoS System](https://www.youtube.com/watch?v=RIeJ4I5wQ04)
 - [T1LOOK / BASH-Linux Ağ Bağlantı Analiz Aracı](https://www.youtube.com/watch?v=HpFK09QK1D8)
 - [Free OVH SAS VPN (Firewall - Dos Guard)](https://www.youtube.com/watch?v=VzizjdCmhSg)
-- [Spam url/site locator (301 detector/checker)](https://www.youtube.com/watch?v=gZdyPSetKkc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCM1G2CgjxYaGhvMF5Ri3Zjw)
