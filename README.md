@@ -17,7 +17,7 @@
 
 <!-- YOUTUBE:START -->
 - [Windows 10 Update Kapatma (%100) 2021](https://www.youtube.com/watch?v=H1xxW9-qLgM)
-- [PHP Clocker Yazılımı | Obir.Ninja](https://www.youtube.com/watch?v=lUAcriH36-c)
+- [PHP Clocker Yazılımı | T13R Software](https://www.youtube.com/watch?v=lUAcriH36-c)
 - [Kernel DOS Self-Protection - Anti-DDoS System](https://www.youtube.com/watch?v=RIeJ4I5wQ04)
 - [T1LOOK / BASH-Linux Ağ Bağlantı Analiz Aracı](https://www.youtube.com/watch?v=HpFK09QK1D8)
 - [Free OVH SAS VPN (Firewall - Dos Guard)](https://www.youtube.com/watch?v=VzizjdCmhSg)
