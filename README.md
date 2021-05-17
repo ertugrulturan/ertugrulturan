@@ -1,6 +1,6 @@
 ### Hi there, I'm Ertuğrul TURAN / [T13R][website] 👋
 
-[![Website](https://img.shields.io/website?label=obir.ninja&style=for-the-badge&url=https%3A%2F%2Fobir.ninja)](https://obir.ninja)
+[![Website](https://img.shields.io/website?label=obir.ninja&style=for-the-badge&url=https%3A%2F%2Flayer.web.tr)](https://layer.web.tr)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ByT13R?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FByT13R&screen_name=ByT13R)
 
 ### Connect with me:
@@ -37,7 +37,7 @@
 - [Comodo Waf Kurulumu Linux](https://layer.web.tr/linux/03/comodo-waf-kurulumu-linux/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://obir.ninja)
+➡️ [more blog posts...](https://layer.web.tr/blog)
 
 ---
 
@@ -61,6 +61,6 @@
 
 </details>
 
-[website]: https://obir.ninja
+[website]: https://layer.web.tr
 [twitter]: https://twitter.com/ByT13R
 [youtube]: https://www.youtube.com/channel/UCM1G2CgjxYaGhvMF5Ri3Zjw
