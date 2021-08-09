@@ -16,11 +16,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [SimpleFirewall - Windows Bilgisayar Güvenliği](https://www.youtube.com/watch?v=AttWFvxSJTI)
 - [Linux SSH Güvenliği - Authorized Keys](https://www.youtube.com/watch?v=A-jlVr5SSnM)
 - [Windows zararlı yazılım tespiti! | Trojan & Keylogger](https://www.youtube.com/watch?v=bpbOExGTa9U)
 - [Windows 10 Update Kapatma (%100) 2021](https://www.youtube.com/watch?v=H1xxW9-qLgM)
 - [PHP Clocker Yazılımı | T13R Software](https://www.youtube.com/watch?v=lUAcriH36-c)
-- [Kernel DOS Self-Protection - Anti-DDoS System](https://www.youtube.com/watch?v=RIeJ4I5wQ04)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCM1G2CgjxYaGhvMF5Ri3Zjw)
