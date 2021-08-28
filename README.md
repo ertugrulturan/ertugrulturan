@@ -30,11 +30,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tcpdump  Saldırı  Tespit](https://layer.web.tr/guvenlik/08/tcpdump-saldiri-tespit/)
 - [Linux sunucunuzda güvenlik 1](https://layer.web.tr/guvenlik/08/linux-sunucunuzda-guvenlik-1/)
 - [Litespeed Antiddos Ayarları](https://layer.web.tr/guvenlik/07/litespeed-antiddos-ayarlari/)
 - [Zararlı yazılım tespiti! Trojan & Keylogger](https://layer.web.tr/guvenlik/05/zararli-yazilim-tespiti-trojan-keylogger/)
 - [Linux SSL/Let’s Encrypt Kurulumu](https://layer.web.tr/linux/04/linux-ssl-lets-encrypt-kurulumu/)
-- [CleanerX – Windows Optimizer](https://layer.web.tr/arge/04/cleanerx-windows-optimizer/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://layer.web.tr/blog)
