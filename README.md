@@ -16,7 +16,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Windows zararlı yazılım tespiti! | Trojan & Keylogger](https://www.youtube.com/watch?v=bpbOExGTa9U)
+- [TROJAN VİRÜS (TRUVA ATI VİRÜSÜ) OLDUĞUNU TESPİT ETME VE KALDIRMA - 2021](https://www.youtube.com/watch?v=bpbOExGTa9U)
 - [Windows 10 Update Kapatma (%100) 2021](https://www.youtube.com/watch?v=H1xxW9-qLgM)
 - [PHP Clocker Yazılımı | T13R Software](https://www.youtube.com/watch?v=lUAcriH36-c)
 - [Kernel DOS Self-Protection - Anti-DDoS System](https://www.youtube.com/watch?v=RIeJ4I5wQ04)
