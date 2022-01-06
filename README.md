@@ -45,7 +45,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/ertugrulturan/NNFirewall/issues/1) in [ertugrulturan/NNFirewall](https://github.com/ertugrulturan/NNFirewall)
+1. ❗️ Opened issue [#1251](https://github.com/CISOfy/lynis/issues/1251) in [CISOfy/lynis](https://github.com/CISOfy/lynis)
 2. 🗣 Commented on [#1](https://github.com/ertugrulturan/NNFirewall/issues/1) in [ertugrulturan/NNFirewall](https://github.com/ertugrulturan/NNFirewall)
 3. 🗣 Commented on [#1](https://github.com/ertugrulturan/vddos-sensor-plugin/issues/1) in [ertugrulturan/vddos-sensor-plugin](https://github.com/ertugrulturan/vddos-sensor-plugin)
 4. 🗣 Commented on [#1](https://github.com/ertugrulturan/vddos-sensor-plugin/issues/1) in [ertugrulturan/vddos-sensor-plugin](https://github.com/ertugrulturan/vddos-sensor-plugin)
