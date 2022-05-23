@@ -9,8 +9,9 @@
 [<img align="left" alt="ByT13R | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br />
 
+<center>
   <img src="https://discord.c99.nl/widget/theme-4/626823923211829261.png"> </br>
-  Mail: info@layer.web.tr
+</center>
 
 ---
 
@@ -65,3 +66,5 @@
 [website]: https://layer.web.tr
 [twitter]: https://twitter.com/ByT13R
 [youtube]: https://www.youtube.com/channel/UCM1G2CgjxYaGhvMF5Ri3Zjw
+
+Mail: info@layer.web.tr
