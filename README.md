@@ -31,11 +31,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux Grafana Kurulumu](https://layer.web.tr/linux/09/linux-grafana-kurulumu/)
-- [Plesk Hızlandırma / Optimize](https://layer.web.tr/linux/09/plesk-hizlandirma-optimize/)
-- [Tcpdump  Saldırı  Tespit](https://layer.web.tr/guvenlik/08/tcpdump-saldiri-tespit/)
-- [Linux sunucunuzda güvenlik 1](https://layer.web.tr/guvenlik/08/linux-sunucunuzda-guvenlik-1/)
-- [Litespeed Antiddos Ayarları](https://layer.web.tr/guvenlik/07/litespeed-antiddos-ayarlari/)
+- [Paylaşımlı Webhosting Güvenliği](https://blog.layer.web.tr/posts/a-dan-z-ye-webhosting-guvenligi/)
+- [Firewall Temelleri ve Saldırı Fixleme İşlemi](https://blog.layer.web.tr/posts/saldiri-fixleme/)
+- [Php Sql injection Güvenliği](https://blog.layer.web.tr/posts/php-guvenligi/)
+- [Linux Nginx Optimizasyonu](https://blog.layer.web.tr/posts/nginx-optimize/)
+- [Mysql, my.cnf Optimizasyonu](https://blog.layer.web.tr/posts/mysqloptimize/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.layer.web.tr)
