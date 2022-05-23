@@ -40,7 +40,7 @@
 - [Litespeed Antiddos Ayarları](https://layer.web.tr/guvenlik/07/litespeed-antiddos-ayarlari/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://layer.web.tr/blog)
+➡️ [more blog posts...](https://blog.layer.web.tr)
 
 ---
 
