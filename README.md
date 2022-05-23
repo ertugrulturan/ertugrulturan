@@ -9,11 +9,8 @@
 [<img align="left" alt="ByT13R | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br />
 
-<p align="center">
-
   <img src="https://discord.c99.nl/widget/theme-4/626823923211829261.png"> </br>
   Mail: info@layer.web.tr
-</p>
 
 ---
 
