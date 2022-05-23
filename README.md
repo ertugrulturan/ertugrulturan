@@ -11,7 +11,8 @@
 
 <p align="center">
 
-  <img src="https://discord.c99.nl/widget/theme-4/626823923211829261.png">
+  <img src="https://discord.c99.nl/widget/theme-4/626823923211829261.png"> </br>
+  Mail: info@layer.web.tr
 </p>
 
 ---
