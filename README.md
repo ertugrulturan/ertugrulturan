@@ -4,13 +4,13 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ByT13R?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FByT13R&screen_name=ByT13R)
 
 ### Connect with me:
-
-<br />
-
-<p align="center">
   [<img align="left" alt="obir.ninja" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="O BIR NINJA | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="ByT13R | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<br />
+
+<p align="center">
+
   <img src="https://discord.c99.nl/widget/theme-4/626823923211829261.png">
 </p>
 
