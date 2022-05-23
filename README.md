@@ -12,7 +12,7 @@
 <br />
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/852847344981377056.png">
+  <img src="https://discord.c99.nl/widget/theme-4/626823923211829261.png">
 </p>
 
 ---
