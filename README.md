@@ -9,7 +9,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 Güncell YouTube Videolarım
 
 <!-- YOUTUBE:START -->
 - [TROJAN VİRÜS &lpar;TRUVA ATI VİRÜSÜ&rpar; OLDUĞUNU TESPİT ETME VE KALDIRMA - 2021](https://www.youtube.com/watch?v=bpbOExGTa9U)
@@ -23,7 +23,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Son Blog Yazıların
 
 <!-- BLOG-POST-LIST:START -->
 - [Paylaşımlı Webhosting Güvenliği](https://blog.layer.web.tr/posts/a-dan-z-ye-webhosting-guvenligi/)
@@ -38,7 +38,7 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: Son GitHub Etkinliğim</summary>
   
 <!--START_SECTION:activity-->
 1. ❗️ Reopened issue [#1251](https://github.com/CISOfy/lynis/issues/1251) in [CISOfy/lynis](https://github.com/CISOfy/lynis)
