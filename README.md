@@ -51,9 +51,10 @@
 </details>
 
 <details>
-  <summary>:zap: Layerweb Discord Server</summary>
+  <summary>:zap: Diğer Bağlantılar</summary>
 
-  <iframe src="https://discord.com/widget?id=803438522152648744&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+  * https://gitlab.com/layerweb
+  * https://www.r10.net/profil/115364-t13r.html
 
 </details>
 
