@@ -51,9 +51,9 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: Layerweb Discord Server</summary>
 
-  <img align="left" alt="ertugrulturan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ertugrulturan&show_icons=true&hide_border=true" />
+  <iframe src="https://discord.com/widget?id=803438522152648744&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 </details>
 
