@@ -19,7 +19,7 @@
 - [T1LOOK / BASH-Linux Ağ Bağlantı Analiz Aracı](https://www.youtube.com/watch?v=HpFK09QK1D8)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UCM1G2CgjxYaGhvMF5Ri3Zjw)
+➡️ [daha fazlası...](https://www.youtube.com/channel/UCM1G2CgjxYaGhvMF5Ri3Zjw)
 
 ---
 
@@ -33,7 +33,7 @@
 - [Mysql, my.cnf Optimizasyonu](https://blog.layer.web.tr/posts/mysqloptimize/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://blog.layer.web.tr)
+➡️ [daha fazlası...](https://blog.layer.web.tr)
 
 ---
 
