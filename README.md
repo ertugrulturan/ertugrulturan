@@ -7,14 +7,13 @@
 </h2>
 <p>
     <samp>
-        My software adventure started when I wondered how games are made instead of playing games, years after I met the first computer in February 2009. So why haven’t you heard the name T13R a lot? I can say there are 2 reasons for this; 1) Since I didn’t feel the need to use a nick, I used my direct name/nick(ERTUGRUL) for many years. 2) Due to the fact that there are activities in foreign forums, I went to foreign forums and met with 2 different topics besides game systems. “Security” and “Hosting” along with this acquaintance, for some reasons that caught my attention, my field of interest completely turned to these areas. If I remember correctly, this meeting happened in 2015 and I am improving myself every day in these 2 fields with a new goal of knowledge. While focusing on linux local security systems in this interval, I started to focus on WAF/FIREWALL systems due to the http flood attacks and my Layer7 Firewall project, which we serve you today, started to form. When I met the R10, the development process started to turn into the marketing process. I am currently working as a security manager in a few private companies. Nice to meet you (:
+        My software adventure started when I wondered how games are made instead of playing games, years after I met the first computer in February 2009. So why haven’t you heard the name T13R a lot? I can say there are 2 reasons for this; 1) Since I didn’t feel the need to use a nick, I used my direct name/nick(ERTUGRUL) for many years. 2) Due to the fact that there are activities in foreign forums, I went to foreign forums and met with 2 different topics besides game systems. “Security” and “Hosting” along with this acquaintance, for some reasons that caught my attention, my field of interest completely turned to these areas. If I remember correctly, this meeting happened in 2015 and I am improving myself every day in these 2 fields with a new goal of knowledge. While focusing on linux local security systems in this interval, I started to focus on WAF/FIREWALL systems due to the http flood attacks and my Layer7 Firewall project, which we serve you today, started to form. When I met the R10, the development process started to turn into the marketing process. I am currently working as a security manager in a few private companies. Nice to meet you (:  - 🇹🇷
     </samp>
 </p>
 
 [![Website](https://img.shields.io/website?label=layer.web.tr&style=for-the-badge&url=https%3A%2F%2Fblog.layer.web.tr)](https://layer.web.tr)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ByT13R?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FByT13R&screen_name=ByT13R) 
- 
- 🇹🇷
+
 <br>
 
 
