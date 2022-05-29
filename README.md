@@ -9,7 +9,7 @@
 
 ---
 
-### 📺 Güncell YouTube Videolarım
+### 📺 Güncel YouTube Videolarım
 
 <!-- YOUTUBE:START -->
 - [TROJAN VİRÜS &lpar;TRUVA ATI VİRÜSÜ&rpar; OLDUĞUNU TESPİT ETME VE KALDIRMA - 2021](https://www.youtube.com/watch?v=bpbOExGTa9U)
