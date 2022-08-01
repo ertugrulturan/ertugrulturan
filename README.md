@@ -36,11 +36,11 @@
 ### 📕 Son Blog Yazıların
 
 <!-- BLOG-POST-LIST:START -->
+- [Network-Manager-Wireguard Ubuntu Gui](https://blog.layer.web.tr/posts/wireguard-network-manager/)
 - [Paylaşımlı Webhosting Güvenliği](https://blog.layer.web.tr/posts/a-dan-z-ye-webhosting-guvenligi/)
 - [Firewall Temelleri ve Saldırı Fixleme İşlemi](https://blog.layer.web.tr/posts/saldiri-fixleme/)
 - [Php Sql injection Güvenliği](https://blog.layer.web.tr/posts/php-guvenligi/)
 - [Linux Nginx Optimizasyonu](https://blog.layer.web.tr/posts/nginx-optimize/)
-- [Mysql, my.cnf Optimizasyonu](https://blog.layer.web.tr/posts/mysqloptimize/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [daha fazlası...](https://blog.layer.web.tr)
