@@ -22,7 +22,7 @@
 ### 📺 Güncel YouTube Videolarım
 
 <!-- YOUTUBE:START -->
-- [TROJAN VİRÜS &lpar;TRUVA ATI VİRÜSÜ&rpar; OLDUĞUNU TESPİT ETME VE KALDIRMA - 2021](https://www.youtube.com/watch?v=bpbOExGTa9U)
+- [TROJAN VİRÜS &lpar;TRUVA ATI VİRÜSÜ&rpar; OLDUĞUNU TESPİT ETME VE KALDIRMA - 2022](https://www.youtube.com/watch?v=bpbOExGTa9U)
 - [Windows 10 Update Kapatma &lpar;%100&rpar; 2021](https://www.youtube.com/watch?v=H1xxW9-qLgM)
 - [PHP Clocker Yazılımı | T13R Software](https://www.youtube.com/watch?v=lUAcriH36-c)
 - [Kernel DOS Self-Protection - Anti-DDoS System](https://www.youtube.com/watch?v=RIeJ4I5wQ04)
