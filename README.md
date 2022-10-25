@@ -11,7 +11,6 @@
 </p>
 
 [![Website](https://img.shields.io/website?label=layer.web.tr&style=for-the-badge&url=https%3A%2F%2Fblog.layer.web.tr)](https://layer.web.tr)
-[![Website](https://img.shields.io/website?label=mirrors.factorylinux.com&style=for-the-badge&url=https%3A%2F%2Fmirrors.factorylinux.com)](https://mirrors.factorylinux.com)
 
 ---
 
@@ -44,7 +43,7 @@
 ---
 
 <details>
-  <summary>:zap: İssues</summary>
+  <summary>:zap: Issues</summary>
   
 <!--START_SECTION:activity-->
 1. ❗️ Reopened issue [#1251](https://github.com/CISOfy/lynis/issues/1251) in [CISOfy/lynis](https://github.com/CISOfy/lynis)
