@@ -47,7 +47,7 @@
 ---
 
 <details>
-  <summary>:zap: Son GitHub Etkinliğim</summary>
+  <summary>:zap: İssues</summary>
   
 <!--START_SECTION:activity-->
 1. ❗️ Reopened issue [#1251](https://github.com/CISOfy/lynis/issues/1251) in [CISOfy/lynis](https://github.com/CISOfy/lynis)
@@ -60,7 +60,7 @@
 </details>
 
 <details>
-  <summary>:zap: Diğer Bağlantılar</summary>
+  <summary>:zap: Other Links</summary>
 
   * https://gitlab.com/layerweb
   * https://www.r10.net/profil/115364-t13r.html
