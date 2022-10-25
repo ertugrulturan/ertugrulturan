@@ -1,7 +1,6 @@
 <a href="https://layer.web.tr" target="_blank">
     <img title="LAYERWEB Hosting" align="right" width="328px" src="https://github.com/ertugrulturan/ertugrulturan/blob/main/layerweb_white.png?raw=true"/>
 </a>
-[![Website](https://img.shields.io/website?label=layer.web.tr&style=for-the-badge&url=https%3A%2F%2Fblog.layer.web.tr)](https://layer.web.tr)
 <h2>
     <samp>Hi there, I'm Ertuğrul TURAN / T13R 👋</samp>
 </h2>
@@ -11,6 +10,7 @@
     </samp>
 </p>
 
+[![Website](https://img.shields.io/website?label=layer.web.tr&style=for-the-badge&url=https%3A%2F%2Fblog.layer.web.tr)](https://layer.web.tr)
 
 ---
 
