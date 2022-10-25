@@ -1,5 +1,5 @@
 <a href="https://layer.web.tr" target="_blank">
-    <img align="right" width="328px" src="https://github.com/ertugrulturan/ertugrulturan/blob/main/layerweb_white.png?raw=true"/>
+    <img title="LAYERWEB Hosting" align="right" width="328px" src="https://github.com/ertugrulturan/ertugrulturan/blob/main/layerweb_white.png?raw=true"/>
 </a>
 
 <h2>
