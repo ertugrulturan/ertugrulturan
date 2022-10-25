@@ -1,9 +1,9 @@
-<a href="https://discord.me/layerweb" target="_blank">
-    <img align="right" width="328px" src="https://discord.c99.nl/widget/theme-4/626823923211829261.png"/>
+<a href="https://layer.web.tr" target="_blank">
+    <img align="right" width="328px" src="https://github.com/ertugrulturan/ertugrulturan/blob/main/layerweb_white.png?raw=true"/>
 </a>
 
 <h2>
-    <samp>Hi there, I'm Ertuğrul TURAN / [T13R] 👋</samp>
+    <samp>Hi there, I'm Ertuğrul TURAN / T13R 👋</samp>
 </h2>
 <p>
     <samp>
