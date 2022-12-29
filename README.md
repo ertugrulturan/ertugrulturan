@@ -31,11 +31,11 @@
 ### 📕 Local(🇹🇷) Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LAYERWEB - Hello World](https://blog.layer.web.tr/posts/layerweb-helloworld/)
 - [Network-Manager-Wireguard Ubuntu Gui](https://blog.layer.web.tr/posts/wireguard-network-manager/)
 - [Paylaşımlı Webhosting Güvenliği](https://blog.layer.web.tr/posts/a-dan-z-ye-webhosting-guvenligi/)
 - [Firewall Temelleri ve Saldırı Fixleme İşlemi](https://blog.layer.web.tr/posts/saldiri-fixleme/)
 - [Php Sql injection Güvenliği](https://blog.layer.web.tr/posts/php-guvenligi/)
-- [Linux Nginx Optimizasyonu](https://blog.layer.web.tr/posts/nginx-optimize/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More...](https://blog.layer.web.tr)
