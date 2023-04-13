@@ -70,4 +70,4 @@
 
 ---
 
-### Mail: info@layer.web.tr
+### Mail: info@layerweb.com.tr
