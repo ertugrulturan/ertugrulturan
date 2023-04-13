@@ -2,7 +2,7 @@
     <img title="LAYERWEB Hosting" align="right" width="328px" src="https://github.com/ertugrulturan/ertugrulturan/blob/main/layerweb_white.png?raw=true"/>
 </a>
 <h2>
-    <samp>Hi there, I'm Ertuğrul TURAN / T13R 👋</samp>
+    <samp>Hi there, I'm Ertuğrul TURAN 👋</samp>
 </h2>
 <p>
     <samp>
