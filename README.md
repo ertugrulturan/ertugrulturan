@@ -18,11 +18,11 @@
 ### 📺 Current YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [RouterOS Install Ubuntu 20.04/22.04 - Mikrotik CHR](https://www.youtube.com/watch?v=b8KmlZmcw1s)
 - [Vddos sensor plugin &lpar;Layer7 AntiDDoS System&rpar;](https://www.youtube.com/watch?v=f9jMMMqAnVU)
 - [SimpleFirewall - Windows Bilgisayar Güvenliği &lpar;Trojan / Keylogger Network Katmanında Engelleme&rpar;](https://www.youtube.com/watch?v=AttWFvxSJTI)
 - [TROJAN VİRÜS &lpar;TRUVA ATI VİRÜSÜ&rpar; OLDUĞUNU TESPİT ETME VE KALDIRMA - 2024](https://www.youtube.com/watch?v=bpbOExGTa9U)
 - [Windows 10/11 Update Kapatma &lpar;%100&rpar; 2023](https://www.youtube.com/watch?v=H1xxW9-qLgM)
-- [PHP Clocker Yazılımı | T13R Software](https://www.youtube.com/watch?v=lUAcriH36-c)
 <!-- YOUTUBE:END -->
 
 ➡️ [More...](https://www.youtube.com/channel/UCM1G2CgjxYaGhvMF5Ri3Zjw)
