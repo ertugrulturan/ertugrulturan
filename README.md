@@ -34,9 +34,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Kripto Coin Mining - XMR](https://blog.layer.web.tr/posts/xmr-mining/)
 - [Docker Kurulumu](https://blog.layer.web.tr/posts/dockerkurulumu/)
-- [LAYERWEB - Hello World](https://blog.layer.web.tr/posts/layerweb-helloworld/)
 - [Network-Manager-Wireguard Ubuntu Gui](https://blog.layer.web.tr/posts/wireguard-network-manager/)
 - [Paylaşımlı Webhosting Güvenliği](https://blog.layer.web.tr/posts/a-dan-z-ye-webhosting-guvenligi/)
+- [Firewall Temelleri ve Saldırı Fixleme İşlemi](https://blog.layer.web.tr/posts/saldiri-fixleme/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More...](https://blog.layer.web.tr)
