@@ -32,11 +32,11 @@
 ### 📕 Local(🇹🇷) Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Teamspeak 3 This server is blacklisted Fix](https://blog.layer.web.tr/posts/teamspeak-client-blacklist-bypass/)
 - [DNS Sızıntısı Nedir &amp; Nasıl Engellenir](https://blog.layer.web.tr/posts/dns-leak-vpn/)
 - [Kripto Coin Mining - XMR](https://blog.layer.web.tr/posts/xmr-mining/)
 - [Docker Kurulumu](https://blog.layer.web.tr/posts/dockerkurulumu/)
 - [Network-Manager-Wireguard Ubuntu Gui](https://blog.layer.web.tr/posts/wireguard-network-manager/)
-- [Paylaşımlı Webhosting Güvenliği](https://blog.layer.web.tr/posts/a-dan-z-ye-webhosting-guvenligi/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More...](https://blog.layer.web.tr)
